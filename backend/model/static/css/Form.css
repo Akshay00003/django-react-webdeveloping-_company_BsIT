@@ -1,0 +1,42 @@
+body {
+  background-image: url('static/images/banner-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.img{
+  height: 741px;
+  position: absolute;
+  width: 100%;
+  margin-top: -50px;
+  opacity: 1;
+}
+#appoint{
+  position: relative;
+  margin-top: 100px;
+  color: white;
+}
+#appoint1{
+  position: relative;
+  margin-top: 230px;
+}
+.request{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 135px;
+  text-decoration: underline;
+  position: absolute;
+  margin-left: 160px;
+background-color: linear-gradient(to right,rgb(243, 169, 242)f to rgb(147, 86, 245));
+}
+#sbtn{
+  color: white;
+  background-color: blueviolet;
+  width: 150px;
+}
+.logo{
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  margin-top: -660px;
+}
